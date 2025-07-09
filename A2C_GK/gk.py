@@ -7,12 +7,12 @@ st.markdown(
     <style>
     /* Entire background including sidebar */
     .stApp {
-        background-color: #d2f4ff;  /* Soft pink */
+        background-color: #fffdd0;  /* Soft pink */
     }
 
     /* Inside content blocks */
     .block-container {
-        background-color: #ffffff;  /* White content box */
+        background-color: #d2f4ff;  /* White content box */
         padding: 2rem;
         border-radius: 10px;
         box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
